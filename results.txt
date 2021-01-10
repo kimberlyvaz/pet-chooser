@@ -1,0 +1,4 @@
+Where do you live?: City 
+How busy are you (1-10)?: 5
+What time do you usually get home?: 6pm
+How responsible are you (1-10)?: 5
